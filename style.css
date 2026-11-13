@@ -1,0 +1,48 @@
+body{
+margin: 0;
+padding: 10px 0 40px 20px;
+background-color:#ffe4c4;
+}
+.image{
+  width: 25%;
+  margin: 0;
+  padding:0;
+  height: auto;
+  
+}
+.title{
+  text-align: center;
+  color: green;
+  /* font-decoration: underline; */
+  font-family: 'khmer os muol light';
+  font-size: 30px;
+}
+hr{
+  height: 5px;
+  background-color: green;
+  margin: 0px 0px 10% 10%
+  width: 80%;
+  margin-bottom: 5px;
+}
+div{
+  text-align: center;
+}
+a{
+ margin: top 0;
+ font-family: 'khmer os siemreap';
+ color: red;
+}
+content{
+  margin: 20px; 10% 0 10%
+  font-family: 'khmer os siemreap';
+  text-align: justify;
+}
+.image-content{
+  width:20%;
+  height: auto;
+  float: right;
+  align-items:top;
+  padding: 10px 20px 20px 20px;
+
+}
+  
